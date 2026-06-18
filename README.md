@@ -183,8 +183,8 @@ nvm --version
 ### Install Node.js
 ```bash
 # Install Node.js version 20
-
 nvm install 20
+
 # Install Latest Version
 nvm install --lts
 
